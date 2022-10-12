@@ -1,0 +1,43 @@
+body{
+		background: light purple;
+		text-align: center;
+		font-family: serif;
+}
+
+heading{
+	font-size: 26px;
+	text-align: center;
+	margin: center;
+	color: white;
+}
+
+earth{
+	font-size:16px;
+	text-align: center;
+	margin: center;
+	color: Blue;
+{
+
+mars{
+	font-size:16px;
+	text-align: center;
+	margin: center;
+	color: red;
+}
+
+jupiter{
+	font-size:16px;
+	text-align: center;
+	margin: center;
+	color: brown;
+}
+
+saturn{
+	font-size:16px;
+	text-align: center;
+	margin: center;
+	color: #f5b642;
+}
+
+
+
