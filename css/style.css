@@ -1,5 +1,5 @@
 body{
-		background:black);
+		background:black;
 		background-image: url("../images/background.jpg");
 		text-align: center;
 		font-family: serif;
@@ -37,7 +37,6 @@ body{
 #mars{
 	font-size:20px;
 	text-align: center;
-	margin: center;
 	color: black;
 	background-color: #CBC3E3;
 	
@@ -50,7 +49,6 @@ body{
 #jupiter{
 	font-size:20px;
 	text-align: center;
-	margin: center;
 	color: black;
 	background-color: #CBC3E3;
 }
@@ -62,7 +60,6 @@ body{
 #saturn{
 	font-size:20px;
 	text-align: center;
-	margin: center;
 	color: black;
 	background-color: #CBC3E3
 }
