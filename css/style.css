@@ -1,0 +1,79 @@
+body{
+		background:black);
+		background-image: url("../images/background.jpg");
+		text-align: center;
+		font-family: serif;
+
+}
+
+
+#heading{
+	font-size: 26px;
+	text-align: center;
+	color: white;
+	background-color: purple;
+	
+}
+#heading th{
+	padding: 50px;
+}
+
+#earth{
+	font-size:20px;
+	text-align: center;
+	color: black;
+	background-color:#CBC3E3;
+}
+
+#earth th{
+	padding: 25px;
+}
+
+#planets{
+	font-size:24px;
+	background-color: white;
+}
+
+#mars{
+	font-size:20px;
+	text-align: center;
+	margin: center;
+	color: black;
+	background-color: #CBC3E3;
+	
+}
+
+#mars th{
+	padding: 25px;
+}
+
+#jupiter{
+	font-size:20px;
+	text-align: center;
+	margin: center;
+	color: black;
+	background-color: #CBC3E3;
+}
+
+#jupiter th{
+	padding: 25px;
+}
+
+#saturn{
+	font-size:20px;
+	text-align: center;
+	margin: center;
+	color: black;
+	background-color: #CBC3E3
+}
+
+#saturn th{
+	padding: 25px;
+}
+
+img {
+  border-radius: 8px;
+  padding: 5px;
+  width: 150px;
+}
+
